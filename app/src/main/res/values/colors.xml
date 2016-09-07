@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#76B1D4</color>
+    <color name="colorPrimaryDark">#76B1D4</color>
+    <color name="colorAccent">#3B6D88</color>
+    <color name="cursor">#3B6D88</color>
+    <color name="sunnyBk">#ffc600</color>
+    <color name="sunny">#ff7800</color>
+    <color name="cloudyBk">#e5f1f7</color>
+    <color name="cloudy">#95a8b4</color>
+    <color name="overcast">#232e3c</color>
+</resources>
